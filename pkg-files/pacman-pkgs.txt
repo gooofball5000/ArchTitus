@@ -86,7 +86,6 @@ snap-pac
 snapper
 steam
 swtpm
-synergy
 terminus-font
 traceroute
 ttf-droid
